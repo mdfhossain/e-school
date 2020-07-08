@@ -1,0 +1,13 @@
+/*-- Common --*/
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+/*-- Top Navbar --*/
+.navbar-brand img{
+    height: 59px;
+}
